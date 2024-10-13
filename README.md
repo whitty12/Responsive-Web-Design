@@ -7,11 +7,11 @@ In each update directory, there will be subdirectories containing individual rew
   - Will utilize React, Bootstrap,React, React JSX and postreSQL
 
   Required Functionality:
-    - Ability for users to upload cat photos.
-    - Cat photos must have a description attached to them.
-    - Users must be allowed to comment on photos of cats
-    - Cat photos must be upload to a gallery page
-    - The front page must contain a carousel component that lets users scroll through cat photos one at a time.
-    - Comments should be displayed below the associated photo.
-    - Comments and photos should be stored in a database.
-    - Home page must contain the comedic blurb about cat likes and dislikes.
+  - Ability for users to upload cat photos.
+  - Cat photos must have a description attached to them.
+  - Users must be allowed to comment on photos of cats
+  - Cat photos must be upload to a gallery page
+  - The front page must contain a carousel component that lets users scroll through cat photos one at a time.
+  - Comments should be displayed below the associated photo.
+  - Comments and photos should be stored in a database.
+  - Home page must contain the comedic blurb about cat likes and dislikes.
