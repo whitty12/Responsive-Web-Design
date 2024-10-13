@@ -7,15 +7,16 @@ In each update directory, there will be subdirectories containing individual rew
   - Will utilize React, Bootstrap,React, React JSX and postreSQL
 
   Required Functionality:
-    - Ability for users to upload cat photos.
-    - Cat photos must have a description attached to them.
-    - Users must be allowed to comment on photos of cats
-    - Cat photos must be upload to a gallery page
-    - The front page must contain a carousel component that lets users scroll through cat photos one at a time.
-    - Comments should be displayed below the associated photo.
-    - Comments and photos should be stored in a database.
-    - Home page must contain the comedic blurb about cat likes and dislikes.
+  - Ability for users to upload cat photos.
+  - Cat photos must have a description attached to them.
+  - Users must be allowed to comment on photos of cats
+  - Cat photos must be upload to a gallery page
+  - The front page must contain a carousel component that lets users scroll through cat photos one at a time.
+  - Comments should be displayed below the associated photo.
+  - Comments and photos should be stored in a database.
+  - Home page must contain the comedic blurb about cat likes and dislikes.
 
 (2) Cafe Menu_with_Updates:
   - Change the base HTML to a page that hovering over each menu item displays a modal that contains the option to purchase the drink along with a picture of the drink
   - Tools TBD, will use at least one UI library, database, and framework.
+  
