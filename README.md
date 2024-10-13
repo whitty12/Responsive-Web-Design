@@ -3,5 +3,5 @@ This README lists file directories and the code inside. The basic form of the we
 In each update directory, there will be subdirectories containing individual reworks of the page as well as a description of what tools I am using in each and their functionality.
 
 CatPhotoApp_with_Updates:
-  - Change a base HTML page to a page with a database and a CSS framework.
-  - Will utilize React, Bootstrap, and the new technology I am learning will be postgreSQL.
+  - Change a base HTML page to a page with a database, Javascript UI library, an HTML templating language and a CSS framework.
+  - Will utilize React, Bootstrap,React, React JSX and postreSQL
