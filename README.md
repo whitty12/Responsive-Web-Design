@@ -15,3 +15,8 @@ In each update directory, there will be subdirectories containing individual rew
   - Comments should be displayed below the associated photo.
   - Comments and photos should be stored in a database.
   - Home page must contain the comedic blurb about cat likes and dislikes.
+
+(2) Cafe Menu_with_Updates:
+  - Change the base HTML to a page that hovering over each menu item displays a modal that contains the option to purchase the drink along with a picture of the drink
+  - Tools TBD, will use at least one UI library, database, and framework.
+  
